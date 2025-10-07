@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    border:0;
+}
+body{
+    background: linear-gradient(135deg, #00c6ff, #2a5298, #00c6ff);
+    background-size: 400% 400%;
+    text-align: center;
+}
+
+.box{
+    position:absolute;
+    color:rgb(111, 24, 75);
+    left:80%;
+    top:600px;
+    border-radius: 10%;
+    border: solid 4px black;
+    padding:30px;
+}
