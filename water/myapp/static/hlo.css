@@ -17,3 +17,7 @@ body{
     border: solid 4px black;
     padding:30px;
 }
+.yash{
+    display: inline-block; 
+    margin-right: 10px;
+}
