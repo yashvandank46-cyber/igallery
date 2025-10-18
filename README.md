@@ -63,7 +63,7 @@ an.html
     </div>
     <div class="box">
         <h2>Designed By</h2>
-        <h1>YASHVANDAN K | 2500000</h1>
+        <h1>YASHVANDAN K | 25017523</h1>
     </div>
     <script>
         function openModal(element) {
@@ -107,7 +107,7 @@ body{
 ```
 
 ## OUTPUT:
-![alt text](<Screenshot 2025-10-07 175154.png>)
+![alt text](<Screenshot 2025-10-18 084132.png>)
 ![alt text](<Screenshot 2025-10-07 175222.png>)
 ![alt text](<Screenshot 2025-10-07 175242.png>)
 ![alt text](<Screenshot 2025-10-07 175257.png>)
